@@ -30,5 +30,13 @@ I am a junior software developer and soon to be graduate of Bachelor's degree in
 
 
 <details>
- <summary><h3> Title</h3></summary>
-   Me good programmer
+ <summary><h3> Professional Experience</h3></summary>
+ Junior Software Developer in C# at Nautilus Plus Inc.
+
+MVC type business application used to manage clients, staff, contracts, memberships and accounting. Software development of said application completely in house.
+- Implemented system that synchronizes appointments with Google Calendar API and pushes events on clients’ online calendars.
+- Synchronized the online store with the local application using Shopify Sharp API. The system fetches the new transactions, processes them and pushes them to the accounting department.
+- Rebuilt the scheduler module interface that manages staff working hours and meetings. 
+- Added functionality to mass update selected objects from listview. Feature works on any listview containing any object with any attributes. 
+
+</details>
